@@ -2,6 +2,10 @@
 
 int main(void)
 {
+<<<<<<< HEAD
    printf("Good Evening!\n");
+=======
+   printf("Good Afternoon!\n");
+>>>>>>> 9262972 (Alex changes)
 }
 
